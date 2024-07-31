@@ -6,7 +6,7 @@
 
 # Consider a linear system of equation in the form Ax= b
 
-# Let Rhs be unit vector
+# Let Rhs be unit
 
 
 import numpy as np
